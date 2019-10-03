@@ -113,8 +113,6 @@ def load_data(city, month, day):
         df = df[df['Month'] == month.title()]
     elif month.lower() != 'all' and day.lower() != 'all':
         df = df[(df['Month'] == month.title()) & (df['Day'] == day.title())]
-    else:
-        pass
     
     df.rename(columns={'Start_Time':'Start Time', 'End_Time': 'End Time'}, inplace=True)
 
