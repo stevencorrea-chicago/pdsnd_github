@@ -5,7 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-In this project, you will wrote Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics. The requirements mandated that I write code that interacted with user and provided data based on the user's input. Once all of the input was gathered, the statistics were displayed on the screen.
+In this project, I wrote Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics. The requirements mandated that I write code that interacted with the user and provide data based on the user's input. Once all of the input was gathered, the statistics were displayed on the screen.
 
 ### Files used
 Bikeshare.py
