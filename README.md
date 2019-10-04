@@ -14,4 +14,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Credit goes to Motivate (https://www.motivateco.com/) for providing the datai and Udacity for being such an awesome online education tool.
+Credit goes to Motivate (https://www.motivateco.com/) for providing the data and Udacity for being such an awesome online education tool.
